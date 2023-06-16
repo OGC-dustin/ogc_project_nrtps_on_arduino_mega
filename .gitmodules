@@ -1,0 +1,3 @@
+[submodule "hardware/ogc_hw_arduino_mega_2560_base_dev"]
+	path = hardware/ogc_hw_arduino_mega_2560_base_dev
+	url = https://github.com/OGC-dustin/ogc_hw_arduino_mega_2560_base_dev.git
