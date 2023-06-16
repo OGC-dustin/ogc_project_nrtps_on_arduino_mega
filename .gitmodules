@@ -1,3 +1,18 @@
 [submodule "hardware/ogc_hw_arduino_mega_2560_base_dev"]
 	path = hardware/ogc_hw_arduino_mega_2560_base_dev
 	url = https://github.com/OGC-dustin/ogc_hw_arduino_mega_2560_base_dev.git
+[submodule "firmware/csp/csp_atmel_atmega2560"]
+	path = firmware/csp/csp_atmel_atmega2560
+	url = https://github.com/OGC-dustin/csp_atmel_atmega2560.git
+[submodule "firmware/hal/ogc_hal_arduino_mega_2560_demo"]
+	path = firmware/hal/ogc_hal_arduino_mega_2560_demo
+	url = https://github.com/OGC-dustin/ogc_hal_arduino_mega_2560_demo.git
+[submodule "software/libraries/ogc_lib_indicator_status_single"]
+	path = software/libraries/ogc_lib_indicator_status_single
+	url = https://github.com/OGC-dustin/ogc_lib_indicator_status_single.git
+[submodule "software/libraries/ogc_lib_os_nrtps"]
+	path = software/libraries/ogc_lib_os_nrtps
+	url = https://github.com/OGC-dustin/ogc_lib_os_nrtps.git
+[submodule "software/applications/ogc_app_demo_blink"]
+	path = software/applications/ogc_app_demo_blink
+	url = https://github.com/OGC-dustin/ogc_app_demo_blink.git

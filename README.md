@@ -44,11 +44,11 @@ make scrub
     │       └── ogc_lib_os_nrtps.git ( library holding the Non Real-Time Polled Scheduler Operating System )
     ├── firmware
     │   ├── hal
-    │   │   └── ogc_hal_arduino_mega_demo.git ( demo abstraction layer linking hardware to software interfaces )
+    │   │   └── ogc_hal_arduino_mega_2560_demo.git ( demo abstraction layer linking hardware to software interfaces )
     │   ├── drivers
     │   └── csp
-    │       └── csp_atmel_??.git ( manufacturer csp supporting the Atmel ATMega 2560 )
+    │       └── csp_atmel_atmega2560.git ( manufacturer csp supporting the Atmel ATMega 2560 )
     └── hardware
-        └── ogc_hw_arduino_mega_2560_dev_base.git ( hardware description for Arduino Mega 2560 development base board )
+        └── ogc_hw_arduino_mega_2560_base_dev.git ( hardware description for Arduino Mega 2560 development base board )
 ```
 
