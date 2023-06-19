@@ -20,6 +20,11 @@ git submodule update --init
 
 ---
 ## Build:
+* TODO: determine which of these are required
+```
+sudo apt install make binutils gcc-avr avr-libc uisp avrdude flex byacc bison
+```
+* execute the build
 ```
 make
 make program
